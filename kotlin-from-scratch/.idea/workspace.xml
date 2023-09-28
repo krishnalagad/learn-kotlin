@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ConditionKt">
+  <component name="RunManager" selected="Kotlin.Problem1Kt">
     <configuration name="ConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionKt" />
       <module name="kotlin-from-scratch" />
@@ -59,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem1Kt" />
+      <module name="kotlin-from-scratch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem1Kt" />
         <item itemvalue="Kotlin.ConditionKt" />
         <item itemvalue="Kotlin.InputKt" />
         <item itemvalue="Kotlin.MainKt" />
