@@ -1,6 +1,7 @@
 fun main() {
     println(checkLengthOfString("Krishna"))
     println(checkVowelsInString("KrishnaAakanksha"))
+    defaultMessage()
 }
 
 fun checkVowelsInString(s: String): Any {
@@ -16,4 +17,8 @@ fun checkVowelsInString(s: String): Any {
 
 fun checkLengthOfString(s: String): Int {
     return s.length
+}
+
+fun defaultMessage(msg: String = "Hello") {
+    println(msg)
 }
